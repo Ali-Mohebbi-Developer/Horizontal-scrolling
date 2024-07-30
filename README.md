@@ -1,6 +1,6 @@
 # A project with html and css and JavaScript
 
-- [Demo Project](https://ali-mohebbi-developer.github.io/Todo-List/)
+- [Demo Project](https://ali-mohebbi-developer.github.io/Horizontal-scrolling/)
 
 - Developed by Ali Mohebbi
 
